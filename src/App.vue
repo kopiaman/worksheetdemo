@@ -5,6 +5,7 @@
       rel="stylesheet"
     />
     <div id="nav">
+      <router-link to="/">MAINPAGE</router-link> |
       <router-link to="/admin">ADMIN</router-link> |
       <router-link to="/matching">WORKSHEET</router-link>
     </div>
